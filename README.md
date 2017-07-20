@@ -6,11 +6,7 @@ Now that you have gotten familiar with *markdown* I want everyone to create a br
 
 **DO NOT** change the master branch!
 
-You can erase the original repo if you think it'll just be clutter on your personal *GitHub* account but everyone should create a branch on this repo with what they did on 4/12/2017's meeting. 
-
-See the following image for reference as to how to create one manually:
-
-<img src='images/gitPic.png'>
+You can erase the original repo if you think it'll just be clutter on your personal *GitHub* account but everyone should create a branch on this repo from the meeting. 
 
 
 Once you create the branch you should be able to upload your files into that branch I will include my branch and example template for y'all to reference. 
