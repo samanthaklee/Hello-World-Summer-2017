@@ -18,3 +18,6 @@ IG: @shak.isms
 + *Kaleidoscopes* - Transviolet feat. Reo Cragun
 + *Girlfriend* - NAO
 + *Yoga* - Janelle Monae
+
+## Projects
+I don't have a project idea right now, but I'm mainly interested in biostatistics, bioinformatics, or health-related applications of statistics. Also open to working on other kinds of projects, though!
