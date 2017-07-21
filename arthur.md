@@ -12,3 +12,4 @@ Project ideas:
 - Same as the above, but with music.  Can a neural network make music?
 - Something to do with analyzing and grouping people based on their interests.  basically ad profiling but transparent
 - See if we can teach a neural net to recognize good coding practices vs bad ones
+- Data analysis on cryptocurrency transactions
