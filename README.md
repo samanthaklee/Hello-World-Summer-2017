@@ -1,14 +1,11 @@
-# Hello World Data Science UCSB Summer 2017
-## Repo for Markdown Practice Template
+# Shon's Branch
 
-## Instuctions:
-Now that you have gotten familiar with *markdown* I want everyone to create a branch on this repo. It should be called something like `sam_branch` and upload your file there. 
+### About me
+Yo, my name is Shon. I'm a 4th year Statistics major and I like data science. Follow my [github](https://github.com/Inouyesan) pls.
 
-**DO NOT** change the master branch!
+### Songs
+* One Foot on Sand - Justin Young
+* All Star - Smash Mouth
 
-You can erase the original repo if you think it'll just be clutter on your personal *GitHub* account but everyone should create a branch on this repo from the meeting. 
-
-
-Once you create the branch you should be able to upload your files into that branch I will include my branch and example template for y'all to reference. 
-
-Any questions ask me on *Slack*!
+### Project Proposal
+Idk bro
