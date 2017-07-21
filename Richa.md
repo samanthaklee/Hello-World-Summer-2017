@@ -1,5 +1,0 @@
-### My name is Richa Wadaskar and I am a second year Computer Science major. I am currently interning at a local company called Invoca as a software engineering intern, and am mostly working on web development. Over this summer, I am hoping to finish the restaurant chatbot that Cindy and I began last quarter. In the long run, I aspire to become a comprehensive coder with a background a multiple fields including data science, and might partake in the 5 year masters program at UCSB. In my free time I enjoy surfing, dancing, listening to music, watching The Office, and hosting game nights. I am looking forward to this year with the data science community and seeing what we accomplish together! :) 
-### My favorite songs currently are
-* 300 violin orchestra, Jorge Quintero 
-* Happier, Ed Sheeran
-* Move Bitch
