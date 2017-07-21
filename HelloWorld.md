@@ -1,7 +1,6 @@
-## *About Me*
+## **About Me**
 
-Hello beautiful people of Data Science! I am a 4th year Stats and Econ double major from the quaint southern Californian city of Los Angeles. I specialize in cheesy jokes and burning everything I (attempt) to cook, though dont let that deter you, I make great pasta. I'm hoping to pick up some Python skills and move on from my first language (*read: arch-nemesis*) R. 
-
+Hello beautiful people of Data Science! I am a 4th year Stats and Econ double major from the quaint southern Californian city of Los Angeles. I'm hoping to pick up some Python skills and move on from my first language (*read*: arch-nemesis) R as well as meet awesome new people to code with and team up with for projects. 
 
 
 ## **Songs To Jam Out To:**
