@@ -3,7 +3,7 @@
 What's good?
 I'm a UCSB alumni, BS in Physics.
 You can either find me downtown, coding, working, or tutoring.
-Some of my projects include VAE natural sceen generation, learning plasma physics, etc.
+Some of my projects include VAE natural scene generation, learning plasma physics, etc.
 
 #### Links
 + [Github](www.github.com/binaryhelix)
