@@ -1,21 +1,13 @@
-#### Table of Contents
-+ Intro
-+ Muh name
-+ Links
-+ Languages Known
-+ Favorite Songs
-+ Favorite Meme
-#### Abstract
+
+#### Intro
 What's good?
 I'm a UCSB alumni who graduates with a BS in Physics.
 You can either find me downtown, coding, working, or tutoring.
 Some of my projects include VAE natural sceen generation, learning plasma physics, etc.
-#### Contributor
-+ Conor O'Brien
 
-#### Important Links
+#### Links
 + [Github](www.github.com/binaryhelix)
-+ [Website](Underconstruction)
++ [Website](Under construction)
 + [Linkedin](https://www.linkedin.com/in/conor-o-brien-6769ab78/)
 
 #### Languages Known
